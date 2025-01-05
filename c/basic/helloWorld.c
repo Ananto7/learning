@@ -2,6 +2,7 @@
 
 int main() {
   printf("Hello This is my first code in C language\n");
+  print("Hello World this for test commit\n");
   printf("Today I am %d years old and next year I'm going to be %d years old\n", 20, 21);
   printf("My average grade: %.1f\n", 93.7);
   printf("We have %d coins in the bank\n", 100);
